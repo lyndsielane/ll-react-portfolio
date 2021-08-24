@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/Skills.css";
-import "../script/script.js";
+/*import "src/assets/script/script.js";*/
 import "animejs";
 import "googlefonts";
 import "bootstrap";
