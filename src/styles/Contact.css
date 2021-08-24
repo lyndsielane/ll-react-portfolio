@@ -1,0 +1,34 @@
+.contact {
+  background-color: var(#430d09);
+  padding: 5px;
+  transform: skewX(15deg);
+  margin-top: 55px;
+}
+
+.contact h2 {
+  transform: skewX(-15deg);
+  font-family: Philosopher;
+  font-size: 35px;
+  text-decoration: underline var(#bef6f6);
+  text-align: center;
+}
+
+.contact ul {
+  transform: skewX(-15deg);
+  font-size: 4.5rem;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+.contact a {
+  color: var(#bef6f6);
+}
+
+.contact a:focus {
+  color: var(#bef6f6);
+}
+
+.contact a:visited {
+  color: var(#bef6f6);
+}

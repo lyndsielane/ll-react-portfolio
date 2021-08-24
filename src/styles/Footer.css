@@ -1,0 +1,14 @@
+.footer {
+  width: 100%;
+  height: 200px;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(#336b74);
+  font-family: "Philosopher", sans-serif;
+  font-size: 34px;
+  text-shadow: 4px 4px var(#c83f29);
+}

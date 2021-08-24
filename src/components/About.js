@@ -1,5 +1,8 @@
 import React from "react";
 import "../styles/About.css";
+import "googlefonts";
+import "bootstrap";
+import photo from "../assets/photos/ll-portrait.jpg";
 
 function About() {
   return (
@@ -7,10 +10,7 @@ function About() {
       <div class="row section-intro">
         <div class="col-twelve">
           <div class="intro-info">
-            <img
-              src="./assets/Photos/ll-portrait.jpg"
-              alt="Lyndsie self-portrait"
-            />
+            <img src={photo} alt="Lyndsie self-portrait" />
             <div class="lead">
               <p>
                 Hello, I'm Lyndsie Lane, a full-stack developer with a passion

@@ -3,17 +3,13 @@ import "../styles/Navbar.css";
 import "googlefonts";
 import "bootstrap";
 import "fontawesome";
-import "../assets/photos/ll-circle.png";
+import logo from "../assets/photos/ll-circle.png";
 
 function Navbar() {
   return (
     <nav>
       <div class="nav-bg"></div>
-      <img
-        src="../assets/photos/ll-circle.png"
-        alt="lyndsie-logo"
-        class="logo"
-      />
+      <img src={logo} alt="lyndsie-logo" class="logo" />
       <button class="hamburger" id="hamburger">
         <i class="fas fa-bars"></i>
       </button>
@@ -34,11 +30,7 @@ function Navbar() {
           </a>
         </li>
         <li>
-          <a
-            href="#resume"
-            alt="resume"
-            target="blank"
-          >
+          <a href="#resume" alt="resume" target="blank">
             Resume
           </a>
         </li>
