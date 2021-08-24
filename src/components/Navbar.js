@@ -3,14 +3,14 @@ import "../styles/Navbar.css";
 import "googlefonts";
 import "bootstrap";
 import "fontawesome";
-import "../../public/assets/photos/ll-circle.png";
+import "../assets/photos/ll-circle.png";
 
 function Navbar() {
   return (
     <nav>
       <div class="nav-bg"></div>
       <img
-        src="../../public/assets/photos/ll-circle.png"
+        src="../assets/photos/ll-circle.png"
         alt="lyndsie-logo"
         class="logo"
       />
@@ -35,7 +35,7 @@ function Navbar() {
         </li>
         <li>
           <a
-            href="./assets/Files/Lyndsie Lane Resume.pdf"
+            href="#resume"
             alt="resume"
             target="blank"
           >

@@ -1,20 +1,13 @@
-import React from 'react';
-import '../styles/Header.css';
-
-const styles = {
-  headerStyle: {
-    background: 'red',
-  },
-  headingStyle: {
-    fontSize: '100px',
-  },
-};
+import React from "react";
+import "../styles/Header.css";
+import "googlefonts";
+import "bootstrap";
 
 function Header() {
   return (
-    <header style={styles.headerStyle} className="header">
-      <h1 style={styles.headingStyle}>Welcome</h1>
-    </header>
+    <div class="hero">
+      <h1>Lyndsie Lane</h1>
+    </div>
   );
 }
 
