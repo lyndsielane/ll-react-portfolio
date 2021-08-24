@@ -1,12 +1,16 @@
 import React from "react";
 import "../styles/Navbar.css";
+import "googlefonts";
+import "bootstrap";
+import "fontawesome";
+import "../../public/assets/photos/ll-circle.png";
 
 function Navbar() {
   return (
     <nav>
       <div class="nav-bg"></div>
       <img
-        src="./assets/Photos/LL Circle Template.png"
+        src="../../public/assets/photos/ll-circle.png"
         alt="lyndsie-logo"
         class="logo"
       />
