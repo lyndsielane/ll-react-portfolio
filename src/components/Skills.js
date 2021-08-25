@@ -3,8 +3,14 @@ import "../styles/Skills.css";
 /*import "src/assets/script/script.js";*/
 import "animejs";
 import "googlefonts";
-import "bootstrap";
-import "fontawesome";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faHtml5 } from "@fortawesome/free-brands-svg-icons";
+import { faCss3 } from "@fortawesome/free-brands-svg-icons";
+import { faJsSquare } from "@fortawesome/free-brands-svg-icons";
+import { faReact } from "@fortawesome/free-brands-svg-icons";
+import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import { faNodeJs } from "@fortawesome/free-brands-svg-icons";
+import { faNpm } from "@fortawesome/free-brands-svg-icons";
 
 function Skills() {
   return (
@@ -14,25 +20,25 @@ function Skills() {
       </div>
       <ul class="list-inline skillicons">
         <li>
-          <i class="fab fa-html5"></i>
+          <FontAwesomeIcon icon={faHtml5} />
         </li>
         <li>
-          <i class="fab fa-css3-alt"></i>
+          <FontAwesomeIcon icon={faCss3} />
         </li>
         <li>
-          <i class="fab fa-js-square"></i>
+          <FontAwesomeIcon icon={faJsSquare} />
         </li>
         <li>
-          <i class="fab fa-react"></i>
+          <FontAwesomeIcon icon={faReact} />
         </li>
         <li>
-          <i class="fab fa-github-square"></i>
+          <FontAwesomeIcon icon={faGithub} />
         </li>
         <li>
-          <i class="fab fa-node-js"></i>
+          <FontAwesomeIcon icon={faNodeJs} />
         </li>
         <li>
-          <i class="fab fa-npm"></i>
+          <FontAwesomeIcon icon={faNpm} />
         </li>
       </ul>
     </section>

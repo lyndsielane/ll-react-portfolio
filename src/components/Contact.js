@@ -1,7 +1,12 @@
 import React from "react";
 import "../styles/Contact.css";
 import "googlefonts";
-import "bootstrap";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faEnvelopeOpenText } from "@fortawesome/free-solid-svg-icons";
+import { faMobile } from "@fortawesome/free-solid-svg-icons";
+import { faFile } from "@fortawesome/free-solid-svg-icons";
+import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import { faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 
 function Contact() {
   return (
@@ -10,12 +15,12 @@ function Contact() {
       <ul>
         <li>
           <a href="tel:6783465328" alt="call Lyndsie">
-            <i class="fas fa-mobile-alt"></i>
+            <FontAwesomeIcon icon={faMobile} />
           </a>
         </li>
         <li>
           <a href="mailto:lyndsielane@yahoo.com" alt="email Lyndsie">
-            <i class="fas fa-envelope-open-text"></i>
+            <FontAwesomeIcon icon={faEnvelopeOpenText} />
           </a>
         </li>
         <li>
@@ -24,7 +29,7 @@ function Contact() {
             alt="Lyndsie's Github"
             target="blank"
           >
-            <i class="fab fa-github"></i>
+            <FontAwesomeIcon icon={faGithub} />
           </a>
         </li>
         <li>
@@ -33,7 +38,7 @@ function Contact() {
             alt="Lyndsie's LinkedIn"
             target="blank"
           >
-            <i class="fab fa-linkedin-in"></i>
+            <FontAwesomeIcon icon={faLinkedinIn} />
           </a>
         </li>
         <li>
@@ -42,7 +47,7 @@ function Contact() {
             alt="Lyndsie's Resume"
             target="blank"
           >
-            <i class="fas fa-file"></i>
+            <FontAwesomeIcon icon={faFile} />
           </a>
         </li>
       </ul>

@@ -6,3 +6,9 @@ body {
   font-family: "Montserrat", sans-serif;
   font-family: "Philosopher", sans-serif;
 }
+
+.content-wrapper {
+  width: 80%;
+  height: 2800px;
+  padding: 1em 10%;
+}

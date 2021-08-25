@@ -1,7 +1,6 @@
 import React from "react";
 import "../styles/About.css";
 import "googlefonts";
-import "bootstrap";
 import photo from "../assets/photos/ll-portrait.jpg";
 
 function About() {
