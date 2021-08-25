@@ -1,5 +1,5 @@
 .skillset {
-  background-color: var(#430d09);
+  background-color: #430d09;
   padding: 5px;
   transform: skewX(-15deg);
 }
@@ -7,7 +7,7 @@
 .skills {
   font-family: "Philosopher", sans-serif;
   font-size: 40px;
-  text-decoration: underline solid var(#bef6f6);
+  text-decoration: underline solid #bef6f6;
   letter-spacing: 0.1em;
   text-align: center;
   transform: skewX(15deg);

@@ -1,5 +1,5 @@
 .contact {
-  background-color: var(#430d09);
+  background-color: #430d09;
   padding: 5px;
   transform: skewX(15deg);
   margin-top: 55px;
@@ -9,8 +9,9 @@
   transform: skewX(-15deg);
   font-family: Philosopher;
   font-size: 35px;
-  text-decoration: underline var(#bef6f6);
+  text-decoration: underline #bef6f6;
   text-align: center;
+  color: antiquewhite;
 }
 
 .contact ul {
@@ -22,13 +23,13 @@
 }
 
 .contact a {
-  color: var(#bef6f6);
+  color: #bef6f6;
 }
 
 .contact a:focus {
-  color: var(#bef6f6);
+  color: #bef6f6;
 }
 
 .contact a:visited {
-  color: var(#bef6f6);
+  color: #bef6f6;
 }

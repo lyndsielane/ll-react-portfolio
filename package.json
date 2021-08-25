@@ -14,6 +14,7 @@
     "@testing-library/user-event": "^12.8.3",
     "animejs": "^3.2.1",
     "bootstrap": "^5.1.0",
+    "eslint-plugin-prettier": "^3.4.1",
     "fontawesome": "^5.6.3",
     "gh-pages": "^3.2.3",
     "googlefonts": "^1.1.3",

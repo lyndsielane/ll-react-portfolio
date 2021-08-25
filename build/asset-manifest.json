@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/ll-react-portfolio/static/css/main.f1db813a.chunk.css",
-    "main.js": "/ll-react-portfolio/static/js/main.d5677dc6.chunk.js",
-    "main.js.map": "/ll-react-portfolio/static/js/main.d5677dc6.chunk.js.map",
+    "main.css": "/ll-react-portfolio/static/css/main.bf04fac1.chunk.css",
+    "main.js": "/ll-react-portfolio/static/js/main.cfee7a9a.chunk.js",
+    "main.js.map": "/ll-react-portfolio/static/js/main.cfee7a9a.chunk.js.map",
     "runtime-main.js": "/ll-react-portfolio/static/js/runtime-main.0c6f253b.js",
     "runtime-main.js.map": "/ll-react-portfolio/static/js/runtime-main.0c6f253b.js.map",
-    "static/js/2.654a74a2.chunk.js": "/ll-react-portfolio/static/js/2.654a74a2.chunk.js",
-    "static/js/2.654a74a2.chunk.js.map": "/ll-react-portfolio/static/js/2.654a74a2.chunk.js.map",
+    "static/js/2.0eb54fbf.chunk.js": "/ll-react-portfolio/static/js/2.0eb54fbf.chunk.js",
+    "static/js/2.0eb54fbf.chunk.js.map": "/ll-react-portfolio/static/js/2.0eb54fbf.chunk.js.map",
     "index.html": "/ll-react-portfolio/index.html",
-    "static/css/main.f1db813a.chunk.css.map": "/ll-react-portfolio/static/css/main.f1db813a.chunk.css.map",
-    "static/js/2.654a74a2.chunk.js.LICENSE.txt": "/ll-react-portfolio/static/js/2.654a74a2.chunk.js.LICENSE.txt",
+    "static/css/main.bf04fac1.chunk.css.map": "/ll-react-portfolio/static/css/main.bf04fac1.chunk.css.map",
+    "static/js/2.0eb54fbf.chunk.js.LICENSE.txt": "/ll-react-portfolio/static/js/2.0eb54fbf.chunk.js.LICENSE.txt",
+    "static/media/127.0.0.1_5500_dist_team.html.c839a2de.png": "/ll-react-portfolio/static/media/127.0.0.1_5500_dist_team.html.c839a2de.png",
+    "static/media/127.0.0.1_5500_index.html (1).28f12eb7.png": "/ll-react-portfolio/static/media/127.0.0.1_5500_index.html (1).28f12eb7.png",
+    "static/media/127.0.0.1_5500_index.html_ (1).339aa80a.png": "/ll-react-portfolio/static/media/127.0.0.1_5500_index.html_ (1).339aa80a.png",
+    "static/media/FidoFriendly.7f207524.png": "/ll-react-portfolio/static/media/FidoFriendly.7f207524.png",
     "static/media/Header.css": "/ll-react-portfolio/static/media/bigstock--140791445.338498fc.jpg",
-    "static/media/ll-circle.67eead3c.png": "/ll-react-portfolio/static/media/ll-circle.67eead3c.png"
+    "static/media/ll-circle.67eead3c.png": "/ll-react-portfolio/static/media/ll-circle.67eead3c.png",
+    "static/media/ll-portrait.123fe892.jpg": "/ll-react-portfolio/static/media/ll-portrait.123fe892.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0c6f253b.js",
-    "static/js/2.654a74a2.chunk.js",
-    "static/css/main.f1db813a.chunk.css",
-    "static/js/main.d5677dc6.chunk.js"
+    "static/js/2.0eb54fbf.chunk.js",
+    "static/css/main.bf04fac1.chunk.css",
+    "static/js/main.cfee7a9a.chunk.js"
   ]
 }

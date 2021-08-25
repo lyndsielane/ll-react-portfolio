@@ -22,3 +22,91 @@
   text-shadow: 4px 3px #822d22;
   color: #bef6f6;
 }
+
+nav {
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0.3em 3em;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0;
+  padding: 0.2em 0.7em;
+  background-color: #98afaf;
+  opacity: 85%;
+  border-radius: 45px;
+}
+
+nav a {
+  width: 100%;
+  height: 100%;
+  color: #c83f29;
+  text-decoration: none;
+  font-family: "Philosopher", sans-serif;
+  font-size: 2.35em;
+  letter-spacing: 1px;
+  transition: 0.25s ease-in-out;
+}
+
+nav a:hover {
+  color: #430d09;
+}
+
+.hamburger {
+  background-color: transparent;
+  border: 0;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  display: none;
+  float: right;
+}
+
+.hamburger:focus {
+  outline: none;
+}
+
+.nav-bg {
+  content: "";
+  position: absolute;
+  display: flex;
+  top: -100%;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background: #336b74;
+  transition: 0.45s ease-in-out;
+}
+
+.bg-hidden {
+  top: -100%;
+  opacity: 0;
+}
+
+.bg-visible {
+  top: 0;
+  opacity: 1;
+}
+
+.logo {
+  max-height: 65px;
+  margin-left: 10px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
