@@ -43,7 +43,7 @@ function Contact() {
         </li>
         <li>
           <a
-            href="./assets/Files/Lyndsie Lane Resume.pdf"
+            href="src/assets/photos/Lyndsie Resume.pdf"
             alt="Lyndsie's Resume"
             target="blank"
           >
