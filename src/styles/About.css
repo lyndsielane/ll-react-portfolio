@@ -7,10 +7,10 @@
 .intro-info img {
   height: 16rem;
   width: 16rem;
-  border-radius: 25%;
+  border-radius: 15%;
   float: left;
   margin-right: 3em;
-  border: 3px solid #91d3ce;
+  border: 3px solid #f5948f;
 }
 
 .lead p {

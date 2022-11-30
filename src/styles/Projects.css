@@ -54,7 +54,7 @@
 .card {
   background-color: white;
   border-radius: 0.25rem;
-  box-shadow: 5px 10px 18px #91d3ce;
+  box-shadow: 5px 5px 10px #f5948f;
   display: flex;
   flex-direction: column;
   background-color: #f5948f;
@@ -64,7 +64,7 @@
 
 .card_content {
   padding: 1.2rem;
-  background: linear-gradient(to bottom, #556672, #f5948f);
+  background: linear-gradient(to bottom, #293b4f, #556672);
 }
 
 .card_title {

@@ -30,12 +30,6 @@ function About() {
                 my work on ensuring a well planned and executed customer first
                 experience.
               </p>
-              <p>
-                Take a look below at a handful of my projects and designs. I am
-                continuously updating this page, please check back for more. Any
-                of the links above will allow you to contact me if you would
-                like to discuss anything you see.
-              </p>
             </div>
           </div>
         </div>
