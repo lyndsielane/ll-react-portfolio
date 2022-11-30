@@ -1,16 +1,16 @@
 #about {
   padding-top: 3rem;
   padding-bottom: 8rem;
-  background: #293f42;
+  background: #293b4f;
 }
 
 .intro-info img {
   height: 16rem;
-  width: 12rem;
-  border-radius: 50%;
+  width: 16rem;
+  border-radius: 25%;
   float: left;
   margin-right: 3em;
-  border: 3px solid #3e9fa9;
+  border: 3px solid #91d3ce;
 }
 
 .lead p {
