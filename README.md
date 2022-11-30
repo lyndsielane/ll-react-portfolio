@@ -1,1 +1,3 @@
 ## Lyndsie Lane React Portfolio
+
+A little about me...
