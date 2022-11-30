@@ -2,7 +2,7 @@ import React from "react";
 import "../styles/Header.css";
 import "googlefonts";
 import "bootstrap";
-import logo from "../assets/photos/ll-circle.png";
+import logo from "../assets/photos/ll-logo.png";
 
 function Header() {
   return (
@@ -26,7 +26,11 @@ function Header() {
           </a>
         </li>
         <li>
-          <a href="#resume" alt="resume" target="blank">
+          <a
+            href="src/assets/photos/Lyndsie Resume.pdf"
+            alt="resume"
+            target="blank"
+          >
             Resume
           </a>
         </li>
