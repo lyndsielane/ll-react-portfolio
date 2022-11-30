@@ -3,7 +3,7 @@
   width: 100%;
   height: 550px;
   background: rgb(50, 50, 50);
-  background: url(../assets/photos/bigstock--140791445.jpg) no-repeat fixed;
+  background: url(src/assets/photos/1895375.jpg) no-repeat fixed;
   background-size: cover;
   overflow: hidden;
 }
