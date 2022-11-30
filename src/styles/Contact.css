@@ -9,7 +9,7 @@
   transform: skewX(-15deg);
   font-family: Philosopher;
   font-size: 35px;
-  text-decoration: underline #91d3ce;
+  text-decoration: underline #6382a1;
   text-align: center;
 }
 
@@ -22,13 +22,13 @@
 }
 
 .contact a {
-  color: #91d3ce;
+  color: #6382a1;
 }
 
 .contact a:focus {
-  color: #f5948f;
+  color: #490d36;
 }
 
 .contact a:visited {
-  color: #bef6f6;
+  color: #bf4fac;
 }

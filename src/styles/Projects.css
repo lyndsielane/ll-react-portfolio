@@ -54,21 +54,21 @@
 .card {
   background-color: white;
   border-radius: 0.25rem;
-  box-shadow: 5px 5px 10px #f5948f;
+  box-shadow: 5px 5px 10px #bf4fac;
   display: flex;
   flex-direction: column;
-  background-color: #f5948f;
+  background-color: #490d36;
   overflow: hidden;
   max-width: 500px;
 }
 
 .card_content {
   padding: 1.2rem;
-  background: linear-gradient(to bottom, #293b4f, #556672);
+  background: linear-gradient(to bottom, #152c37, #6382a1);
 }
 
 .card_title {
-  color: #91d3ce;
+  color: #6382a1;
   font-size: 1.7rem;
   margin: 0px;
   font-family: "Philosopher", sans-serif;

@@ -1,7 +1,7 @@
 #about {
   padding-top: 3rem;
   padding-bottom: 8rem;
-  background: #293b4f;
+  background: #080104;
 }
 
 .intro-info img {
@@ -10,7 +10,7 @@
   border-radius: 15%;
   float: left;
   margin-right: 3em;
-  border: 3px solid #f5948f;
+  border: 3px solid #bf4fac;
 }
 
 .lead p {

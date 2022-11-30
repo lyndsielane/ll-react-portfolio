@@ -1,5 +1,5 @@
 .skillset {
-  background-color: #556672;
+  background-color: #080104;
   padding: 5px;
   transform: skewX(-15deg);
 }
@@ -7,7 +7,7 @@
 .skills {
   font-family: "Philosopher", sans-serif;
   font-size: 40px;
-  text-decoration: underline solid #91d3ce;
+  text-decoration: underline solid #6382a1;
   letter-spacing: 0.1em;
   text-align: center;
   transform: skewX(15deg);
@@ -16,7 +16,7 @@
 .skillicons {
   font-size: 4.5rem;
   list-style: none;
-  color: #868e96;
+  color: #6382a1;
   display: flex;
   justify-content: space-around;
   transform: skewX(15deg);
